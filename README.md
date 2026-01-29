@@ -38,13 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/codew1thsumit/codew1thsumit/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=codew1thsumit.codew1thsumit&"  />
