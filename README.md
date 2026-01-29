@@ -38,9 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
+###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=codew1thsumit.codew1thsumit&"  />
+  <img src="https://count.getloli.com/@:codew1thsumit?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
