@@ -10,14 +10,7 @@
 
 ###
 
-<p align="left">
-  
-- 🐛 Creating bugs since: **2024**
-- 📘 Currently learning: **C Programming, Linux basics, Git & GitHub**
-- 🎯 Goals: **Become a skilled software developer and contribute to open source**
-- 🎲 Fun fact: **I enjoy debugging more than writing code**
-
-</p>
+<p align="left">- 🐛 Creating bugs since: **2024**<br>- 📘 Currently learning: **C Programming, Linux basics, Git & GitHub**<br>- 🎯 Goals: **Become a skilled software developer and contribute to open source**<br>- 🎲 Fun fact: **I enjoy debugging more than writing code**</p>
 
 ###
 
