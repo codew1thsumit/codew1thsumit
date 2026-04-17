@@ -13,7 +13,7 @@
 <p align="left">
  
  - 🐛 Creating bugs since: **2024**
-- 📘 Currently learning: **C Programming, Linux basics, Git & GitHub**
+- 📘 Currently learning: **C Programming, Java, Linux basics, Git & GitHub**
 - 🎯 Goals: **Become a skilled software developer and contribute to open source**
 - 🎲 Fun fact: **I enjoy debugging more than writing code**
 </p>
