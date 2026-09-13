@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Sumit<br><br>I'm a BCA 2nd-year student passionate about building software and exploring the world of Artificial Intelligence and Machine Learning.<br><br>I'm currently focused on strengthening my programming fundamentals and learning how to build practical AI applications and AI agents.<br><br>🚀 What I'm Working Toward<br>🤖 Becoming an AI/ML Engineer<br>🧠 Building AI Agents & LLM applications<br>🔎 Exploring Cybersecurity<br>💻 Improving my software development skills<br>🤝 Looking to connect and collaborate with developers who are interested in AI, ML, cybersecurity, and open-source projects<br>🛠️ Currently Learning<br><br>AI / LLM<br><br>LangChain<br>RAG<br>AI Agents<br>LLM application development<br><br>🎯 My Goal<br><br>Build real-world projects, contribute to open source, and eventually work as an AI/ML Engineer.<br><br>I'm always open to collaboration, interesting projects, and connecting with people who are building in AI, ML, cybersecurity, or software development.<br><br>Build → Break → Learn → Build Better.
+👋 Hi, I'm Sumit<br><br>I'm a BCA 2nd-year student passionate about building software and exploring the world of Artificial Intelligence and Machine Learning.<br><br>I'm currently focused on strengthening my programming fundamentals and learning how to build practical AI applications and AI agents.<br><br>🚀 What I'm Working Toward<br>🤖 Becoming an AI/ML Engineer<br>🧠 Building AI Agents & LLM applications<br>🔎 Exploring Cybersecurity<br>💻 Improving my software development skills<br>🤝 Looking to connect and collaborate with developers who are interested in AI, ML, cybersecurity, and open-source projects<br>🛠️ Currently Learning<br><br>AI / LLM<br><br>LangChain<br>RAG<br>AI Agents<br>LLM application development<br><br>
+# 🎯 My Goal<br><br>Build real-world projects, contribute to open source, and eventually work as an AI/ML Engineer.<br><br>I'm always open to collaboration, interesting projects, and connecting with people who are building in AI, ML, cybersecurity, or software development.<br><br>Build → Break → Learn → Build Better.
 
 
 # 🌐 Socials:
@@ -18,7 +19,7 @@
 ---
 [![](https://komarev.com/ghpvc/?username=codew1thsumit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  #💰 You can help me by Donating
+  # 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/codew1thsumit) 
 
   
