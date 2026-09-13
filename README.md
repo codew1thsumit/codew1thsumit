@@ -45,7 +45,6 @@ right now i am currently focused on strengthening my programming fundamentals an
 </h2>
 
 Build **real-world projects**, contribute to **open source**, and eventually work as an **AI/ML Engineer**.
-
 I'm always open to collaboration, interesting projects, and connecting with people who are building in **AI, ML, cybersecurity, or software development**.
 
 <p align="center">
