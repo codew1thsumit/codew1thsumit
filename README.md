@@ -66,9 +66,6 @@ I'm always open to collaboration, interesting projects, and connecting with peop
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codew1thsumit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
-
-[![](https://komarev.com/ghpvc/?username=codew1thsumit&icon=0&color=0)](https://visitcount.itsvg.in)
 # 🌐 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codew1thsumit)
