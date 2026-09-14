@@ -70,7 +70,7 @@ I'm always open to collaboration, interesting projects, and connecting with peop
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codew1thsumit)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codew1thsumit)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.sumitbhaya@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dev.sumitbhaya@gmail.com)
 
 # ☕ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙈𝙮 𝙒𝙤𝙧𝙠
 **If you find my projects useful or want to support my learning journey:**<br><br>
